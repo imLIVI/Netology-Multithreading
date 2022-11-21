@@ -1,3 +1,6 @@
+[submodule "HW.1.1.InterthreadedDialogue"]
+	path = HW.1.1.InterthreadedDialogue
+	url = https://github.com/imLIVI/InterthreadedDialogue-Multithreading.git
 [submodule "HW.1.2.InterthreadDialogWithCounter"]
 	path = HW.1.2.InterthreadDialogWithCounter
 	url = https://github.com/imLIVI/InterthreadDialogWithCounter-Multithreading.git

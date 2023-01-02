@@ -7,4 +7,7 @@
 [submodule "HW.1.3.ArraysCalculator"]
 	path = HW.1.3.ArraysCalculator
 	url = https://github.com/imLIVI/ArraysCalculator-Multithreading.git
+[submodule "HW2.1.CarDealership-Synchronization"]
+	path = HW2.1.CarDealership-Synchronization
+	url = https://github.com/imLIVI/CarDealership-Multithreading.git
 

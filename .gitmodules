@@ -13,4 +13,7 @@
 [submodule "HW2.2.AdvancedCarDealership-Synchronization"]
 	path = HW2.2.AdvancedCarDealership-Synchronization
 	url = https://github.com/imLIVI/AdvancedCarDealership-Multithreading.git
+[submodule "HW2.3.Restaurant-Synchronization"]
+	path = HW2.3.Restaurant-Synchronization
+	url = https://github.com/imLIVI/Restaurant-Multithreading.git
 

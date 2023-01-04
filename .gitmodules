@@ -16,4 +16,7 @@
 [submodule "HW2.3.Restaurant-Synchronization"]
 	path = HW2.3.Restaurant-Synchronization
 	url = https://github.com/imLIVI/Restaurant-Multithreading.git
+[submodule "HW3.1.NicknameGeneration-Volatile"]
+	path = HW3.1.NicknameGeneration-Volatile
+	url = https://github.com/imLIVI/NicknameGeneration-Volatile-Multithreading.git
 

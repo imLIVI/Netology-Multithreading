@@ -22,4 +22,8 @@
 [submodule "HW4.1.TheAnalyzerProgram-CollectionsForParallelWork"]
 	path = HW4.1.TheAnalyzerProgram-CollectionsForParallelWork
 	url = https://github.com/imLIVI/TheAnalyzerProgram-CollectionsForParallelWork-Multithreading.git
+[submodule "HW5.1.DevelopmentThroughTesting-TDD"]
+	path = HW5.1.DevelopmentThroughTesting-TDD
+	url = https://github.com/imLIVI/TDD-Multithreading.git
+
 
